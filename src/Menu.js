@@ -1,6 +1,6 @@
 import React from "react";
 
-const Menu = (items) => {
+const Menu = ({ items }) => {
   return (
     <div className="section-center">
       {items.map((menuItem) => {
