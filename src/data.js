@@ -71,5 +71,13 @@ const menu = [
     img: "./images/item-9.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: "something",
+    category: "dinner",
+    price: 7.99,
+    img: "./images/item-9.jpeg",
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, (testing for mi iteration) edison bulb yuccie crucifix microdosing.`,
+  },
 ];
 export default menu;
